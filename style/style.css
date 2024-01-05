@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+body {
+  font-family: 'Space Mono', monospace;
+  padding: 24px;
+}
+
+img{
+  max-width: 100%;
+}
+
+header{
+  margin-bottom: 100px;
+}
+
+header h2{
+  text-transform: uppercase;
+  color: #402880;
+}
+
+article h1 {
+  font-weight: bold;
+  font-size: 36px;
+  color: #402880;
+}
+
+#message{
+  font-size: 20px;
+  margin-bottom: 48px;
+  color: #333333;
+}
+
+button{
+  font-family: inherit;
+  font-size: 16px;
+  background-color: #402880;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  padding: 16px 32px;
+  cursor: pointer;
+  transition: backgroun-color 0.1s ease-in-out;
+}
+
+button:hover{
+  background-color: #da4381;
+}
+
+#created-by{
+  font-size: 14px;
+  text-align: center;
+  opacity: 75%;
+  margin-top: 48px;
+}
+
+@media (min-width: 490px) {
+  body{
+    max-width: 1300px;
+    margin: auto;
+  }
+  section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 48px;
+    align-items: center;
+  }
+
+  article h1{
+    font-size: 48px;
+  }
+
+  #info{
+    font-size: 24px;
+  }
+
+  button{
+    font-size: 20px;
+  }
+}
+    
