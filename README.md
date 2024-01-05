@@ -37,24 +37,10 @@
 - [Acknowledgements](#acknowledgements)
 
 
-## Overview
-
-![screenshot] ()
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
 ## Features
 
 
 Este aplicativo/site foi criado como submissão a um desafio [DevChallenges](https://devchallenges.io/challenges). O [desafio](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era construir um aplicativo para completar as histórias de usuários fornecidas.
 
 
-## Contact
-
-- GitHub [@Thainasli](https://{github.com/Thainasli})
 
