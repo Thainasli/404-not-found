@@ -9,7 +9,6 @@
 - [Contato](#contato)
       Contato: [Thainá Lima](https://{linkedin.com/in/thain%C3%A1-lima-303714217/})
        
-- [Acknowledgements](#acknowledgements)
 
 
 ## Features
